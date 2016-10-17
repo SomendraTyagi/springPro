@@ -1,0 +1,5 @@
+projectKey=helloworlds:HibernatewithSpring
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/helloworlds:HibernatewithSpring
+ceTaskId=AVfSPXDzha-noF-8NIrd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVfSPXDzha-noF-8NIrd
